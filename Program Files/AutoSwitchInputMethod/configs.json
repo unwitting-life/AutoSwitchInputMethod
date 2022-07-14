@@ -1,14 +1,17 @@
 {
   ".default": {
-    "name": "United States"
+    "ime": "United States"
   },
   "notepad.exe": {
-    "name": "China"
+    "ime": "Japan"
   },
   "msedge.exe": {
-    "name": "China"
+    "ime": "China"
   },
   "devenv.exe": {
-    "name": "United States"
+    "ime": "United States"
+  },
+  "POWERPNT.EXE": {
+    "ime": "Japan"
   }
 }
