@@ -1,6 +1,9 @@
 {
-  "notepad.exe": {
-    "ime": "Japan"
+  ".default": {
+    "ime": "-"
+  },
+  ".refresh": {
+    "level": "high"
   },
   "msedge.exe": {
     "ime": "China"
@@ -8,7 +11,7 @@
   "devenv.exe": {
     "ime": "United States"
   },
-  "POWERPNT.EXE": {
-    "ime": "Japan"
+  "wechat.exe": {
+    "ime": "China"
   }
 }
